@@ -57,6 +57,7 @@ List out the file hello1.txt in the current directory
 List out all the associated file extensions 
 
 ## COMMAND AND OUTPUT
+![alt text](image-7.png)
 
 
 Compare the file hello.txt and rose.txt
