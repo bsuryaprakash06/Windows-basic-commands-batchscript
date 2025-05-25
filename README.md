@@ -47,6 +47,7 @@ Copy the file hello.txt into the file hello1.txt
 Remove the file hello1.txt
 
 ## COMMAND AND OUTPUT
+![alt text](image-5.png)
 
 List out the file hello1.txt in the current directory
 
