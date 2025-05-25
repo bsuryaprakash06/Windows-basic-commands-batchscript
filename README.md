@@ -27,12 +27,12 @@ Create a directory named "my-folder"
 ## COMMAND AND OUTPUT
 ![alt text](image.png)
 Remove the directory "my-folder"
+![alt text](image-1.png)
 
 ## COMMAND AND OUTPUT
 
-
 Create the file Rose.txt
-
+![alt text](image-2.png)
 ## COMMAND AND OUTPUT
 
 
