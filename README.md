@@ -52,6 +52,7 @@ Remove the file hello1.txt
 List out the file hello1.txt in the current directory
 
 ## COMMAND AND OUTPUT
+![alt text](image-6.png)
 
 List out all the associated file extensions 
 
