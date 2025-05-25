@@ -120,12 +120,17 @@ pause
 
 Write a batch file that uses a FOR loop to iterate over a sequence of numbers (1 to 5) and displays each number with the label Number:. The output should pause at the end.
 
-
-
-
+## BATCH PROGRAM
+```
+@echo off
+for /L %%i in (1,1,5) do (
+    echo Number: %%i
+)
+pause
+```
 ## OUTPUT
 
-
+![alt text](image-11.png)
 
 
 Write a batch script to check whether a file named sample.txt exists in the current directory. If the file exists, display the message sample.txt exists. Otherwise, display sample.txt does not exist. Pause the script at the end to view the result.
