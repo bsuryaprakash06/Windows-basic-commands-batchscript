@@ -25,7 +25,7 @@ Execute the necessary commands/batch file for the desired output.
 Create a directory named "my-folder"
 
 ## COMMAND AND OUTPUT
-
+![alt text](image.png)
 Remove the directory "my-folder"
 
 ## COMMAND AND OUTPUT
