@@ -43,7 +43,7 @@ Create the file hello.txt using echo and redirection
 Copy the file hello.txt into the file hello1.txt
 
 ## COMMAND AND OUTPUT
-
+![alt text](image-4.png)
 Remove the file hello1.txt
 
 ## COMMAND AND OUTPUT
