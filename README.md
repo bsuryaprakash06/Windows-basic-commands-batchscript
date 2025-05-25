@@ -39,7 +39,7 @@ Create the file Rose.txt
 Create the file hello.txt using echo and redirection
 
 ## COMMAND AND OUTPUT
-
+![alt text](image-3.png)
 Copy the file hello.txt into the file hello1.txt
 
 ## COMMAND AND OUTPUT
