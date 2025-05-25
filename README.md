@@ -161,9 +161,43 @@ Create a File – Creates a file named newfile.txt with the content This is a ne
 Exit – Exits the script with a goodbye message
 The script should repeatedly display the menu until the user chooses to exit. Use goto statements to handle menu navigation.
 
+## BATCH PROGRAM
+```
+@echo off
+:menu
+cls
+echo 1. Say Hello
+echo 2. Create a File
+echo 3. Exit
+set /p choice=Choose an option (1-3): 
+
+if "%choice%"=="1" goto hello
+if "%choice%"=="2" goto create
+if "%choice%"=="3" goto exit
+echo Invalid choice.
+pause
+goto menu
+
+:hello
+echo Hello, World!
+pause
+goto menu
+
+:create
+echo This is a new file > newfile.txt
+echo File newfile.txt created.
+pause
+goto menu
+
+:exit
+echo Goodbye!
+pause
+exit
+```
+
 
 ## OUTPUT
-
+![alt text](image-13.png)
 
 
 # RESULT:
