@@ -141,8 +141,19 @@ Make sure the script works for files located in the same directory as the batch 
 Use pause to keep the command window open after displaying the message.
 Expected Output (if the file exists):
 
-## OUTPUT
+## BATCH PROGRAM
+```
+@echo off
+if exist sample.txt (
+    echo sample.txt exists.
+) else (
+    echo sample.txt does not exist.
+)
+pause
+```
 
+## OUTPUT
+![alt text](image-12.png)
 
 Write a batch script that displays a simple menu with three options:
 Say Hello – Displays the message Hello, World!
